@@ -1,11 +1,16 @@
 _repo: M-rkandeya-Pur-na-Books-VII-and-VIII_7169
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Wortham, B. Hale
     gutenberg_agent_id: '34401'
     url: http://www.gutenberg.org/2009/agents/34401
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7169#M-rkandeya-Pur-na-Books-VII-and-VIII
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
